@@ -1,0 +1,1191 @@
+<!DOCTYPE html>
+<html lang="zh-cmn-Hans" class="">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta name="renderer" content="webkit">
+    <meta name="referrer" content="always">
+    <title>
+  
+  豆瓣最受欢迎的影评
+</title>
+    
+  <meta name="baidu-site-verification" content="cZdR4xxR7RxmM4zE" />
+  <meta http-equiv="Pragma" content="no-cache">
+  <meta http-equiv="Expires" content="Sun, 6 Mar 2005 01:00:00 GMT">
+  
+  
+  <meta name="keywords" content="影评,热门影评,最新影评"/>
+  <meta name="description" content="豆瓣最受欢迎的影评,发表你的影评"/>
+  <link rel="alternate" href="/feed/review/best" type="application/rss+xml" title="RSS">
+
+  <link href="https://img3.doubanio.com/f/shire/bf61b1fa02f564a4a8f809da7c7179b883a56146/css/douban.css" rel="stylesheet" type="text/css">
+  <link href="https://img3.doubanio.com/f/shire/ae3f5a3e3085968370b1fc63afcecb22d3284848/css/separation/_all.css" rel="stylesheet" type="text/css">
+  <link href="https://img3.doubanio.com/f/zerkalo/4b7b75331a86c9c8275ac6b7306e820fc072e09a/css/init.css" rel="stylesheet" type="text/css">
+  <link rel="stylesheet" href="https://img3.doubanio.com/misc/mixed_static/440500e058827049.css">
+  <style type="text/css"></style>
+
+  <script type="text/javascript">var _head_start = new Date();</script>
+  <script type="text/javascript" src="https://img3.doubanio.com/f/shire/7cdd59e1378f9ccea648a083fecf12d71ed66c2b/js/jquery-1.8.3.js"></script>
+  <script type="text/javascript" src="https://img3.doubanio.com/f/shire/77323ae72a612bba8b65f845491513ff3329b1bb/js/do.js" data-cfg-autoload="false"></script>
+
+  <script type="text/javascript" src="https://img3.doubanio.com/f/shire/40e5fd47dadd542654d9421d954f5296266c2e25/js/douban.js"></script>
+  <script type="text/javascript" src="https://img3.doubanio.com/f/shire/afb2e24c7be373fa64d49d28de42719ec2262e1c/js/lib/moreurl.js"></script>
+  <script type="text/javascript" src="https://img3.doubanio.com/f/zerkalo/faf4e3047552fe4c8a20b9a9dafab7088b4f71c3/dist/js/base.js"></script>
+  <script type="text/javascript" src="https://img3.doubanio.com/f/shire/0efdc63b77f895eaf85281fb0e44d435c6239a3f/js/separation/_all.js"></script>
+  
+
+  <script type="text/javascript"></script>
+
+    <link rel="shortcut icon" href="https://img3.doubanio.com/favicon.ico" type="image/x-icon">
+</head>
+
+<body>
+  
+  
+  <script type="text/javascript">var _body_start = new Date();</script>
+
+  
+
+    
+
+
+
+    <link href="//img3.doubanio.com/dae/accounts/resources/321e246/shire/bundle.css" rel="stylesheet" type="text/css">
+
+
+
+<div id="db-global-nav" class="global-nav">
+  <div class="bd">
+    
+<div class="top-nav-info">
+  <a href="https://www.douban.com/accounts/login?source=main" class="nav-login" rel="nofollow">登录</a>
+  <a href="https://www.douban.com/accounts/register?source=main" class="nav-register" rel="nofollow">注册</a>
+</div>
+
+
+    
+<div class="top-nav-doubanapp">
+  <a href="https://www.douban.com/doubanapp/app?channel=top-nav" class="lnk-doubanapp">下载豆瓣客户端</a>
+  <div id="top-nav-appintro" class="more-items">
+    <p class="appintro-title">豆瓣</p>
+    <p class="qrcode">扫码直接下载</p>
+    <div class="download">
+      <a href="https://www.douban.com/doubanapp/redirect?channel=top-nav&direct_dl=1&download=iOS">iPhone</a>
+      <span>·</span>
+      <a href="https://www.douban.com/doubanapp/redirect?channel=top-nav&direct_dl=1&download=Android" class="download-android">Android</a>
+    </div>
+    <div id="doubanapp-tip">
+      <a href="https://www.douban.com/doubanapp/app?channel=qipao" class="tip-link">豆瓣 5.0 全新发布</a>
+      <a href="javascript: void 0;" class="tip-close">×</a>
+    </div>
+  </div>
+</div>
+
+    
+
+
+<div class="global-nav-items">
+  <ul>
+    <li class="on">
+      <a href="https://www.douban.com"  data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-main&quot;,&quot;uid&quot;:&quot;0&quot;}">豆瓣</a>
+    </li>
+    <li class="">
+      <a href="https://book.douban.com" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-book&quot;,&quot;uid&quot;:&quot;0&quot;}">读书</a>
+    </li>
+    <li class="">
+      <a href="https://movie.douban.com" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-movie&quot;,&quot;uid&quot;:&quot;0&quot;}">电影</a>
+    </li>
+    <li class="">
+      <a href="https://music.douban.com" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-music&quot;,&quot;uid&quot;:&quot;0&quot;}">音乐</a>
+    </li>
+    <li class="">
+      <a href="https://www.douban.com/location" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-location&quot;,&quot;uid&quot;:&quot;0&quot;}">同城</a>
+    </li>
+    <li class="">
+      <a href="https://www.douban.com/group" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-group&quot;,&quot;uid&quot;:&quot;0&quot;}">小组</a>
+    </li>
+    <li class="">
+      <a href="https://read.douban.com&#47;?dcs=top-nav&amp;dcm=douban" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-read&quot;,&quot;uid&quot;:&quot;0&quot;}">阅读</a>
+    </li>
+    <li class="">
+      <a href="https://douban.fm&#47;?from_=shire_top_nav" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-fm&quot;,&quot;uid&quot;:&quot;0&quot;}">FM</a>
+    </li>
+    <li class="">
+      <a href="https://time.douban.com&#47;?dt_time_source=douban-web_top_nav" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-time&quot;,&quot;uid&quot;:&quot;0&quot;}">时间</a>
+    </li>
+    <li class="">
+      <a href="https://market.douban.com&#47;?utm_campaign=douban_top_nav&amp;utm_source=douban&amp;utm_medium=pc_web" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-market&quot;,&quot;uid&quot;:&quot;0&quot;}">市集</a>
+    </li>
+    <li>
+      <a href="#more" class="bn-more"><span>更多</span></a>
+      <div class="more-items">
+        <table cellpadding="0" cellspacing="0">
+          <tbody>
+            <tr>
+              <td>
+                <a href="https://ypy.douban.com" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-ypy&quot;,&quot;uid&quot;:&quot;0&quot;}">豆瓣摄影</a>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+    </li>
+  </ul>
+</div>
+
+  </div>
+</div>
+<script>
+  ;window._GLOBAL_NAV = {
+    DOUBAN_URL: "https://www.douban.com",
+    N_NEW_NOTIS: 0,
+    N_NEW_DOUMAIL: 0
+  };
+</script>
+
+
+
+    <script src="//img3.doubanio.com/dae/accounts/resources/321e246/shire/bundle.js" defer="defer"></script>
+
+
+
+
+
+      
+
+
+
+    <link href="//img3.doubanio.com/dae/accounts/resources/19507ad/movie/bundle.css" rel="stylesheet" type="text/css">
+
+
+
+
+<div id="db-nav-movie" class="nav">
+  <div class="nav-wrap">
+  <div class="nav-primary">
+    <div class="nav-logo">
+      <a href="https:&#47;&#47;movie.douban.com">豆瓣电影</a>
+    </div>
+    <div class="nav-search">
+      <form action="https:&#47;&#47;movie.douban.com/subject_search" method="get">
+        <fieldset>
+          <legend>搜索：</legend>
+          <label for="inp-query">
+          </label>
+          <div class="inp"><input id="inp-query" name="search_text" size="22" maxlength="60" placeholder="搜索电影、电视剧、综艺、影人" value=""></div>
+          <div class="inp-btn"><input type="submit" value="搜索"></div>
+          <input type="hidden" name="cat" value="1002" />
+        </fieldset>
+      </form>
+    </div>
+  </div>
+  </div>
+  <div class="nav-secondary">
+    
+
+<div class="nav-items">
+  <ul>
+    <li    ><a href="https://movie.douban.com/cinema/nowplaying/"
+     >影讯&购票</a>
+    </li>
+    <li    ><a href="https://movie.douban.com/explore"
+     >选电影</a>
+    </li>
+    <li    ><a href="https://movie.douban.com/tv/"
+     >电视剧</a>
+    </li>
+    <li    ><a href="https://movie.douban.com/chart"
+     >排行榜</a>
+    </li>
+    <li    ><a href="https://movie.douban.com/tag/"
+     >分类</a>
+    </li>
+    <li    ><a href="https://movie.douban.com/review/best/"
+     >影评</a>
+    </li>
+    <li    ><a href="https://movie.douban.com/annual/2017?source=navigation"
+     >2017年度榜单</a>
+    </li>
+    <li    ><a href="https://movie.douban.com/standbyme/2017?source=navigation"
+     >2017观影报告</a>
+    </li>
+  </ul>
+</div>
+
+  </div>
+</div>
+
+<script id="suggResult" type="text/x-jquery-tmpl">
+  <li data-link="{{= url}}">
+            <a href="{{= url}}" onclick="moreurl(this, {from:'movie_search_sugg', query:'{{= keyword }}', subject_id:'{{= id}}', i: '{{= index}}', type: '{{= type}}'})">
+            <img src="{{= img}}" width="40" />
+            <p>
+                <em>{{= title}}</em>
+                {{if year}}
+                    <span>{{= year}}</span>
+                {{/if}}
+                {{if sub_title}}
+                    <br /><span>{{= sub_title}}</span>
+                {{/if}}
+                {{if address}}
+                    <br /><span>{{= address}}</span>
+                {{/if}}
+                {{if episode}}
+                    {{if episode=="unknow"}}
+                        <br /><span>集数未知</span>
+                    {{else}}
+                        <br /><span>共{{= episode}}集</span>
+                    {{/if}}
+                {{/if}}
+            </p>
+        </a>
+        </li>
+  </script>
+
+
+
+
+    <script src="//img3.doubanio.com/dae/accounts/resources/19507ad/movie/bundle.js" defer="defer"></script>
+
+
+
+
+
+
+  
+  <div id="wrapper" class="movie-content review-wrapper">
+    
+
+    
+  <div id="content">
+    
+    <h1>豆瓣最受欢迎的影评</h1>
+
+    <div class="grid-16-8 clearfix">
+      
+      
+      <div class="article">
+        
+  
+  <ul class="top-tab clearfix">
+      
+  
+  <li class=" selected">    <a href="javascript:;">      <span>最受欢迎的</span>    </a>  </li>
+
+      
+  
+  <li class="">    <a href="/review/latest?app_name=movie">      <span>新片评论</span>    </a>  </li>
+
+  </ul>
+  
+
+
+
+<div class="review-list chart ">
+            
+    
+    <div xmlns:v="http://rdf.data-vocabulary.org/#" typeof="v:Review" data-cid="9368414">
+        <div class="main review-item" id="9368414">
+                <a class="subject-img" href="https://movie.douban.com/subject/26811528/">                    <img alt="归去来" title="归去来" src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2517476907.jpg" rel="v:image" />                </a>
+
+            
+    
+    <header class="main-hd">
+        <a href="https://www.douban.com/people/155602014/" class="avator">
+            <img width="24" height="24" src="https://img3.doubanio.com/icon/u155602014-33.jpg">
+        </a>
+
+        <a href="https://www.douban.com/people/155602014/" property="v:reviewer" class="name">叶子的眼睛</a>
+
+            <span property="v:rating" class="allstar30 main-title-rating" title="还行"></span>
+
+        <span property="v:dtreviewed" content="2018-05-14" class="main-meta">2018-05-14 23:20:55</span>
+
+
+    </header>
+
+
+            <div class="main-bd">
+
+                <h2><a href="https://movie.douban.com/review/9368414/">归去来，爱而已</a></h2>
+
+                <div id="review_9368414_short" class="review-short" data-rid="9368414">
+                    <div class="short-content">
+                            <p class="spoiler-tip">这篇剧评可能有剧透</p>
+
+                        就目前更新的第一集来说，电视剧还不错。起码我没有看到好像总统套房一样豪华的宿舍，而是狭小而拥挤的四人间。 其次就是我还挺喜欢宁鸣对于缪莹那段沉重而纯净的暗恋的，只可惜落花有情，流水无意。 其实这个剧还有一点就是时间线有点点混乱，或者说不是混乱，是有一点突然转...
+
+                        &nbsp;(<a href="javascript:;" id="toggle-9368414-copy" class="unfold" title="展开">展开</a>)
+                    </div>
+                </div>
+
+                <div id="review_9368414_full" class="hidden">
+                    <div id="review_9368414_full_content" class="full-content"></div>
+                </div>
+
+                <div class="action">
+                    <a href="javascript:;;" class="action-btn up" data-rid="9368414" title="有用">
+                        <img src="https://img3.doubanio.com/f/zerkalo/536fd337139250b5fb3cf9e79cb65c6193f8b20b/pics/up.png" />
+                        <span id="r-useful_count-9368414">
+                                73
+                        </span>
+                    </a>
+                    <a href="javascript:;;" class="action-btn down" data-rid="9368414" title="没用">
+                        <img src="https://img3.doubanio.com/f/zerkalo/68849027911140623cf338c9845893c4566db851/pics/down.png" />
+                        <span id="r-useless_count-9368414">
+                                1
+                        </span>
+                    </a>
+                    <a href="https://movie.douban.com/review/9368414/#comments" class="reply">7回应</a>
+
+                    <a href="javascript:;;" class="fold hidden">收起</a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+            
+    
+    <div xmlns:v="http://rdf.data-vocabulary.org/#" typeof="v:Review" data-cid="9368595">
+        <div class="main review-item" id="9368595">
+                <a class="subject-img" href="https://movie.douban.com/subject/26811528/">                    <img alt="归去来" title="归去来" src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2517476907.jpg" rel="v:image" />                </a>
+
+            
+    
+    <header class="main-hd">
+        <a href="https://www.douban.com/people/166278152/" class="avator">
+            <img width="24" height="24" src="https://img3.doubanio.com/icon/u166278152-2.jpg">
+        </a>
+
+        <a href="https://www.douban.com/people/166278152/" property="v:reviewer" class="name">樱桃咻咻咻</a>
+
+            <span property="v:rating" class="allstar30 main-title-rating" title="还行"></span>
+
+        <span property="v:dtreviewed" content="2018-05-15" class="main-meta">2018-05-15 00:34:30</span>
+
+
+    </header>
+
+
+            <div class="main-bd">
+
+                <h2><a href="https://movie.douban.com/review/9368595/">我想磕甜糖</a></h2>
+
+                <div id="review_9368595_short" class="review-short" data-rid="9368595">
+                    <div class="short-content">
+
+                        期待这部剧很久了，毕竟是公布恋爱之后合体的第一剧，而且之前看预告也觉得是很有剧情的，不是单纯的不走心的偶像剧，然而看完第一集，我觉得我的想法可能有些偏差。 至少四十分钟的剧集里，两位要出现十分钟以上吧，就不求第一集合体了，可是呢，前二十五分钟里，男主只留给我...
+
+                        &nbsp;(<a href="javascript:;" id="toggle-9368595-copy" class="unfold" title="展开">展开</a>)
+                    </div>
+                </div>
+
+                <div id="review_9368595_full" class="hidden">
+                    <div id="review_9368595_full_content" class="full-content"></div>
+                </div>
+
+                <div class="action">
+                    <a href="javascript:;;" class="action-btn up" data-rid="9368595" title="有用">
+                        <img src="https://img3.doubanio.com/f/zerkalo/536fd337139250b5fb3cf9e79cb65c6193f8b20b/pics/up.png" />
+                        <span id="r-useful_count-9368595">
+                                67
+                        </span>
+                    </a>
+                    <a href="javascript:;;" class="action-btn down" data-rid="9368595" title="没用">
+                        <img src="https://img3.doubanio.com/f/zerkalo/68849027911140623cf338c9845893c4566db851/pics/down.png" />
+                        <span id="r-useless_count-9368595">
+                        </span>
+                    </a>
+                    <a href="https://movie.douban.com/review/9368595/#comments" class="reply">1回应</a>
+
+                    <a href="javascript:;;" class="fold hidden">收起</a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+            
+    
+    <div xmlns:v="http://rdf.data-vocabulary.org/#" typeof="v:Review" data-cid="9368525">
+        <div class="main review-item" id="9368525">
+                <a class="subject-img" href="https://movie.douban.com/subject/26862829/">                    <img alt="芳华" title="芳华" src="https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2507227732.jpg" rel="v:image" />                </a>
+
+            
+    
+    <header class="main-hd">
+        <a href="https://www.douban.com/people/172379531/" class="avator">
+            <img width="24" height="24" src="https://img3.doubanio.com/icon/u172379531-2.jpg">
+        </a>
+
+        <a href="https://www.douban.com/people/172379531/" property="v:reviewer" class="name">七年</a>
+
+            <span property="v:rating" class="allstar40 main-title-rating" title="推荐"></span>
+
+        <span property="v:dtreviewed" content="2018-05-14" class="main-meta">2018-05-14 23:58:47</span>
+
+
+    </header>
+
+
+            <div class="main-bd">
+
+                <h2><a href="https://movie.douban.com/review/9368525/">芳华残歌，归来焉识</a></h2>
+
+                <div id="review_9368525_short" class="review-short" data-rid="9368525">
+                    <div class="short-content">
+                            <p class="spoiler-tip">这篇影评可能有剧透</p>
+
+                        一个始终不被人善待的人，最能识得善良，也最能珍视善良。 大概所有看完电影的人都会知道这句话吧 电影里我们感叹苗苗最后的结局，感叹刘峰成为了残疾，感叹穗子最后还是与爱情擦肩而过。 但是我想，在他们那个年代最真挚的大概就是一份热爱了吧。刘峰无论如何在战场上从未退缩...
+
+                        &nbsp;(<a href="javascript:;" id="toggle-9368525-copy" class="unfold" title="展开">展开</a>)
+                    </div>
+                </div>
+
+                <div id="review_9368525_full" class="hidden">
+                    <div id="review_9368525_full_content" class="full-content"></div>
+                </div>
+
+                <div class="action">
+                    <a href="javascript:;;" class="action-btn up" data-rid="9368525" title="有用">
+                        <img src="https://img3.doubanio.com/f/zerkalo/536fd337139250b5fb3cf9e79cb65c6193f8b20b/pics/up.png" />
+                        <span id="r-useful_count-9368525">
+                                73
+                        </span>
+                    </a>
+                    <a href="javascript:;;" class="action-btn down" data-rid="9368525" title="没用">
+                        <img src="https://img3.doubanio.com/f/zerkalo/68849027911140623cf338c9845893c4566db851/pics/down.png" />
+                        <span id="r-useless_count-9368525">
+                        </span>
+                    </a>
+                    <a href="https://movie.douban.com/review/9368525/#comments" class="reply">0回应</a>
+
+                    <a href="javascript:;;" class="fold hidden">收起</a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+            
+    
+    <div xmlns:v="http://rdf.data-vocabulary.org/#" typeof="v:Review" data-cid="9366215">
+        <div class="main review-item" id="9366215">
+                <a class="subject-img" href="https://movie.douban.com/subject/27107131/">                    <img alt="结爱·千岁大人的初恋" title="结爱·千岁大人的初恋" src="https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2519613123.jpg" rel="v:image" />                </a>
+
+            
+    
+    <header class="main-hd">
+        <a href="https://www.douban.com/people/155603461/" class="avator">
+            <img width="24" height="24" src="https://img3.doubanio.com/icon/u155603461-1.jpg">
+        </a>
+
+        <a href="https://www.douban.com/people/155603461/" property="v:reviewer" class="name">小慢</a>
+
+            <span property="v:rating" class="allstar40 main-title-rating" title="推荐"></span>
+
+        <span property="v:dtreviewed" content="2018-05-14" class="main-meta">2018-05-14 09:38:10</span>
+
+
+    </header>
+
+
+            <div class="main-bd">
+
+                <h2><a href="https://movie.douban.com/review/9366215/">熬夜刷八集！！！</a></h2>
+
+                <div id="review_9366215_short" class="review-short" data-rid="9366215">
+                    <div class="short-content">
+                            <p class="spoiler-tip">这篇剧评可能有剧透</p>
+
+                        大晚上热的睡不着然后找了这个之前被室友安利的电视来看   妈耶真的还可以    熬夜刷了八集   我是真的很吃这种剧情这种套路！！！ 演女主小时候的那个小女孩是真的好可爱啊哈哈哈特别喜欢一开始能看的下去也是这个原因    剧情还是很狗血啊但是没办法我还挺喜欢   男主因为不...
+
+                        &nbsp;(<a href="javascript:;" id="toggle-9366215-copy" class="unfold" title="展开">展开</a>)
+                    </div>
+                </div>
+
+                <div id="review_9366215_full" class="hidden">
+                    <div id="review_9366215_full_content" class="full-content"></div>
+                </div>
+
+                <div class="action">
+                    <a href="javascript:;;" class="action-btn up" data-rid="9366215" title="有用">
+                        <img src="https://img3.doubanio.com/f/zerkalo/536fd337139250b5fb3cf9e79cb65c6193f8b20b/pics/up.png" />
+                        <span id="r-useful_count-9366215">
+                                96
+                        </span>
+                    </a>
+                    <a href="javascript:;;" class="action-btn down" data-rid="9366215" title="没用">
+                        <img src="https://img3.doubanio.com/f/zerkalo/68849027911140623cf338c9845893c4566db851/pics/down.png" />
+                        <span id="r-useless_count-9366215">
+                                2
+                        </span>
+                    </a>
+                    <a href="https://movie.douban.com/review/9366215/#comments" class="reply">13回应</a>
+
+                    <a href="javascript:;;" class="fold hidden">收起</a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+            
+    
+    <div xmlns:v="http://rdf.data-vocabulary.org/#" typeof="v:Review" data-cid="9366605">
+        <div class="main review-item" id="9366605">
+                <a class="subject-img" href="https://movie.douban.com/subject/30192056/">                    <img alt="帝王攻略" title="帝王攻略" src="https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2520100330.jpg" rel="v:image" />                </a>
+
+            
+    
+    <header class="main-hd">
+        <a href="https://www.douban.com/people/155607123/" class="avator">
+            <img width="24" height="24" src="https://img3.doubanio.com/icon/u155607123-3.jpg">
+        </a>
+
+        <a href="https://www.douban.com/people/155607123/" property="v:reviewer" class="name">花怜要开车</a>
+
+            <span property="v:rating" class="allstar50 main-title-rating" title="力荐"></span>
+
+        <span property="v:dtreviewed" content="2018-05-14" class="main-meta">2018-05-14 11:49:11</span>
+
+
+    </header>
+
+
+            <div class="main-bd">
+
+                <h2><a href="https://movie.douban.com/review/9366605/">来个痛快点的</a></h2>
+
+                <div id="review_9366605_short" class="review-short" data-rid="9366605">
+                    <div class="short-content">
+
+                        很喜欢古风的作品，对于武侠仙侠古风类的完全没有抵抗力，耽美的就更不用说了，所以看到这部动画片的时候必须果断入了坑，画风是我喜欢的画风，很唯美，剧情方木，我也没看过小说，目前还看不出什么，毕竟才这么几集，但就这几集看的还是很开心的。只希望别再像其他国漫那样一...
+
+                        &nbsp;(<a href="javascript:;" id="toggle-9366605-copy" class="unfold" title="展开">展开</a>)
+                    </div>
+                </div>
+
+                <div id="review_9366605_full" class="hidden">
+                    <div id="review_9366605_full_content" class="full-content"></div>
+                </div>
+
+                <div class="action">
+                    <a href="javascript:;;" class="action-btn up" data-rid="9366605" title="有用">
+                        <img src="https://img3.doubanio.com/f/zerkalo/536fd337139250b5fb3cf9e79cb65c6193f8b20b/pics/up.png" />
+                        <span id="r-useful_count-9366605">
+                                69
+                        </span>
+                    </a>
+                    <a href="javascript:;;" class="action-btn down" data-rid="9366605" title="没用">
+                        <img src="https://img3.doubanio.com/f/zerkalo/68849027911140623cf338c9845893c4566db851/pics/down.png" />
+                        <span id="r-useless_count-9366605">
+                                1
+                        </span>
+                    </a>
+                    <a href="https://movie.douban.com/review/9366605/#comments" class="reply">0回应</a>
+
+                    <a href="javascript:;;" class="fold hidden">收起</a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+            
+    
+    <div xmlns:v="http://rdf.data-vocabulary.org/#" typeof="v:Review" data-cid="9369329">
+        <div class="main review-item" id="9369329">
+                <a class="subject-img" href="https://movie.douban.com/subject/27107131/">                    <img alt="结爱·千岁大人的初恋" title="结爱·千岁大人的初恋" src="https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2519613123.jpg" rel="v:image" />                </a>
+
+            
+    
+    <header class="main-hd">
+        <a href="https://www.douban.com/people/161206792/" class="avator">
+            <img width="24" height="24" src="https://img3.doubanio.com/icon/u161206792-2.jpg">
+        </a>
+
+        <a href="https://www.douban.com/people/161206792/" property="v:reviewer" class="name">F班的袁湘琴</a>
+
+            <span property="v:rating" class="allstar50 main-title-rating" title="力荐"></span>
+
+        <span property="v:dtreviewed" content="2018-05-15" class="main-meta">2018-05-15 12:37:32</span>
+
+
+    </header>
+
+
+            <div class="main-bd">
+
+                <h2><a href="https://movie.douban.com/review/9369329/">感受到了编剧和导演的用心</a></h2>
+
+                <div id="review_9369329_short" class="review-short" data-rid="9369329">
+                    <div class="short-content">
+
+                        该剧改编自作家施定柔所著小说《结爱·异客逢欢》，讲述平凡善良的社报实习生关皮皮邂逅神秘深情的狐族右祭司贺兰静霆后的纠缠几生几世的爱情故事，剧情有趣又有点奇幻色彩，不管是主角还是配角演技都在线，随着剧情走向还没出现尴尬的情况，不在是那种尬撩，自大狂了，每一集...
+
+                        &nbsp;(<a href="javascript:;" id="toggle-9369329-copy" class="unfold" title="展开">展开</a>)
+                    </div>
+                </div>
+
+                <div id="review_9369329_full" class="hidden">
+                    <div id="review_9369329_full_content" class="full-content"></div>
+                </div>
+
+                <div class="action">
+                    <a href="javascript:;;" class="action-btn up" data-rid="9369329" title="有用">
+                        <img src="https://img3.doubanio.com/f/zerkalo/536fd337139250b5fb3cf9e79cb65c6193f8b20b/pics/up.png" />
+                        <span id="r-useful_count-9369329">
+                                31
+                        </span>
+                    </a>
+                    <a href="javascript:;;" class="action-btn down" data-rid="9369329" title="没用">
+                        <img src="https://img3.doubanio.com/f/zerkalo/68849027911140623cf338c9845893c4566db851/pics/down.png" />
+                        <span id="r-useless_count-9369329">
+                        </span>
+                    </a>
+                    <a href="https://movie.douban.com/review/9369329/#comments" class="reply">0回应</a>
+
+                    <a href="javascript:;;" class="fold hidden">收起</a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+            
+    
+    <div xmlns:v="http://rdf.data-vocabulary.org/#" typeof="v:Review" data-cid="9368536">
+        <div class="main review-item" id="9368536">
+                <a class="subject-img" href="https://movie.douban.com/subject/27107131/">                    <img alt="结爱·千岁大人的初恋" title="结爱·千岁大人的初恋" src="https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2519613123.jpg" rel="v:image" />                </a>
+
+            
+    
+    <header class="main-hd">
+        <a href="https://www.douban.com/people/163713853/" class="avator">
+            <img width="24" height="24" src="https://img3.doubanio.com/icon/u163713853-4.jpg">
+        </a>
+
+        <a href="https://www.douban.com/people/163713853/" property="v:reviewer" class="name">小仙女阿团</a>
+
+            <span property="v:rating" class="allstar40 main-title-rating" title="推荐"></span>
+
+        <span property="v:dtreviewed" content="2018-05-15" class="main-meta">2018-05-15 00:04:37</span>
+
+
+    </header>
+
+
+            <div class="main-bd">
+
+                <h2><a href="https://movie.douban.com/review/9368536/">居然有点好看</a></h2>
+
+                <div id="review_9368536_short" class="review-short" data-rid="9368536">
+                    <div class="short-content">
+
+                        我的天，本来是抱着试试水的心态，可是居然有点好看？ 一开头的小女生真的超可爱，还在想不是现代剧吗？我是不是进错窗口了？ 说实话很少看见现代偶像剧导演镜头和音乐走心的，这部剧的镜头真的是不错，看出了现代剧应有的质感，要是以后偶像剧都往这方面加强真的是很开心了！ ...
+
+                        &nbsp;(<a href="javascript:;" id="toggle-9368536-copy" class="unfold" title="展开">展开</a>)
+                    </div>
+                </div>
+
+                <div id="review_9368536_full" class="hidden">
+                    <div id="review_9368536_full_content" class="full-content"></div>
+                </div>
+
+                <div class="action">
+                    <a href="javascript:;;" class="action-btn up" data-rid="9368536" title="有用">
+                        <img src="https://img3.doubanio.com/f/zerkalo/536fd337139250b5fb3cf9e79cb65c6193f8b20b/pics/up.png" />
+                        <span id="r-useful_count-9368536">
+                                61
+                        </span>
+                    </a>
+                    <a href="javascript:;;" class="action-btn down" data-rid="9368536" title="没用">
+                        <img src="https://img3.doubanio.com/f/zerkalo/68849027911140623cf338c9845893c4566db851/pics/down.png" />
+                        <span id="r-useless_count-9368536">
+                        </span>
+                    </a>
+                    <a href="https://movie.douban.com/review/9368536/#comments" class="reply">1回应</a>
+
+                    <a href="javascript:;;" class="fold hidden">收起</a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+            
+    
+    <div xmlns:v="http://rdf.data-vocabulary.org/#" typeof="v:Review" data-cid="9369029">
+        <div class="main review-item" id="9369029">
+                <a class="subject-img" href="https://movie.douban.com/subject/24773958/">                    <img alt="复仇者联盟3：无限战争" title="复仇者联盟3：无限战争" src="https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2517753454.jpg" rel="v:image" />                </a>
+
+            
+    
+    <header class="main-hd">
+        <a href="https://www.douban.com/people/174455659/" class="avator">
+            <img width="24" height="24" src="https://img1.doubanio.com/icon/u174455659-7.jpg">
+        </a>
+
+        <a href="https://www.douban.com/people/174455659/" property="v:reviewer" class="name">走路带风</a>
+
+            <span property="v:rating" class="allstar40 main-title-rating" title="推荐"></span>
+
+        <span property="v:dtreviewed" content="2018-05-15" class="main-meta">2018-05-15 10:22:11</span>
+
+
+    </header>
+
+
+            <div class="main-bd">
+
+                <h2><a href="https://movie.douban.com/review/9369029/">复联3后续之逆转未来</a></h2>
+
+                <div id="review_9369029_short" class="review-short" data-rid="9369029">
+                    <div class="short-content">
+
+                        该片讲述漫威电影有史以来最强反派灭霸登场，该片将会集齐所有漫威电影宇宙的超级英雄进行对抗灭霸，上演一场史无前例的拯救宇宙大战。复仇者联盟和他们的超级英雄盟友们必须愿意牺牲一切，才能在灭霸毁灭宇宙之前将其击败 。最后复仇者们绝地逢生逆转未来 看完后最爱灭霸，喜...
+
+                        &nbsp;(<a href="javascript:;" id="toggle-9369029-copy" class="unfold" title="展开">展开</a>)
+                    </div>
+                </div>
+
+                <div id="review_9369029_full" class="hidden">
+                    <div id="review_9369029_full_content" class="full-content"></div>
+                </div>
+
+                <div class="action">
+                    <a href="javascript:;;" class="action-btn up" data-rid="9369029" title="有用">
+                        <img src="https://img3.doubanio.com/f/zerkalo/536fd337139250b5fb3cf9e79cb65c6193f8b20b/pics/up.png" />
+                        <span id="r-useful_count-9369029">
+                                32
+                        </span>
+                    </a>
+                    <a href="javascript:;;" class="action-btn down" data-rid="9369029" title="没用">
+                        <img src="https://img3.doubanio.com/f/zerkalo/68849027911140623cf338c9845893c4566db851/pics/down.png" />
+                        <span id="r-useless_count-9369029">
+                        </span>
+                    </a>
+                    <a href="https://movie.douban.com/review/9369029/#comments" class="reply">0回应</a>
+
+                    <a href="javascript:;;" class="fold hidden">收起</a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+            
+    
+    <div xmlns:v="http://rdf.data-vocabulary.org/#" typeof="v:Review" data-cid="9368162">
+        <div class="main review-item" id="9368162">
+                <a class="subject-img" href="https://movie.douban.com/subject/26634179/">                    <img alt="刀剑神域：序列之争" title="刀剑神域：序列之争" src="https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2498371582.jpg" rel="v:image" />                </a>
+
+            
+    
+    <header class="main-hd">
+        <a href="https://www.douban.com/people/156841179/" class="avator">
+            <img width="24" height="24" src="https://img3.doubanio.com/icon/u156841179-1.jpg">
+        </a>
+
+        <a href="https://www.douban.com/people/156841179/" property="v:reviewer" class="name">鸥怩</a>
+
+            <span property="v:rating" class="allstar40 main-title-rating" title="推荐"></span>
+
+        <span property="v:dtreviewed" content="2018-05-14" class="main-meta">2018-05-14 22:06:32</span>
+
+
+    </header>
+
+
+            <div class="main-bd">
+
+                <h2><a href="https://movie.douban.com/review/9368162/">刀剑</a></h2>
+
+                <div id="review_9368162_short" class="review-short" data-rid="9368162">
+                    <div class="short-content">
+
+                        使用了最新技术的次世代游戏成为了话题，在发售的同时席卷了整个社会。 以现实世界为战场，通过在各地出现的物品收集，击杀野怪而提升玩家的等级。 ”Ordinal Scale序列之争“的特点是”排位系统“，所有的玩家状态，不是基数，是由序数来决定排位号。 所以，排位高分的玩家有...
+
+                        &nbsp;(<a href="javascript:;" id="toggle-9368162-copy" class="unfold" title="展开">展开</a>)
+                    </div>
+                </div>
+
+                <div id="review_9368162_full" class="hidden">
+                    <div id="review_9368162_full_content" class="full-content"></div>
+                </div>
+
+                <div class="action">
+                    <a href="javascript:;;" class="action-btn up" data-rid="9368162" title="有用">
+                        <img src="https://img3.doubanio.com/f/zerkalo/536fd337139250b5fb3cf9e79cb65c6193f8b20b/pics/up.png" />
+                        <span id="r-useful_count-9368162">
+                                44
+                        </span>
+                    </a>
+                    <a href="javascript:;;" class="action-btn down" data-rid="9368162" title="没用">
+                        <img src="https://img3.doubanio.com/f/zerkalo/68849027911140623cf338c9845893c4566db851/pics/down.png" />
+                        <span id="r-useless_count-9368162">
+                        </span>
+                    </a>
+                    <a href="https://movie.douban.com/review/9368162/#comments" class="reply">0回应</a>
+
+                    <a href="javascript:;;" class="fold hidden">收起</a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+            
+    
+    <div xmlns:v="http://rdf.data-vocabulary.org/#" typeof="v:Review" data-cid="9368959">
+        <div class="main review-item" id="9368959">
+                <a class="subject-img" href="https://movie.douban.com/subject/24743711/">                    <img alt="催眠大师" title="催眠大师" src="https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2181062460.jpg" rel="v:image" />                </a>
+
+            
+    
+    <header class="main-hd">
+        <a href="https://www.douban.com/people/157675697/" class="avator">
+            <img width="24" height="24" src="https://img3.doubanio.com/icon/u157675697-3.jpg">
+        </a>
+
+        <a href="https://www.douban.com/people/157675697/" property="v:reviewer" class="name">kiki</a>
+
+            <span property="v:rating" class="allstar50 main-title-rating" title="力荐"></span>
+
+        <span property="v:dtreviewed" content="2018-05-15" class="main-meta">2018-05-15 09:47:30</span>
+
+
+    </header>
+
+
+            <div class="main-bd">
+
+                <h2><a href="https://movie.douban.com/review/9368959/">非常赞的国产悬疑片</a></h2>
+
+                <div id="review_9368959_short" class="review-short" data-rid="9368959">
+                    <div class="short-content">
+
+                        非常喜欢的国产悬疑片，带点惊悚片的感觉，多次反转，虽然看到最后能猜到剧情，但剧情还是很紧张精彩，让人不自觉跟着剧情走。前半段颇有点惊悚片的味道，在莫文蔚饰演的任小妍催眠世界与现实世界交叠出现的过程中，不免被她的身世之谜所牵绊，就在这身世之谜将要解开的时刻，...
+
+                        &nbsp;(<a href="javascript:;" id="toggle-9368959-copy" class="unfold" title="展开">展开</a>)
+                    </div>
+                </div>
+
+                <div id="review_9368959_full" class="hidden">
+                    <div id="review_9368959_full_content" class="full-content"></div>
+                </div>
+
+                <div class="action">
+                    <a href="javascript:;;" class="action-btn up" data-rid="9368959" title="有用">
+                        <img src="https://img3.doubanio.com/f/zerkalo/536fd337139250b5fb3cf9e79cb65c6193f8b20b/pics/up.png" />
+                        <span id="r-useful_count-9368959">
+                                39
+                        </span>
+                    </a>
+                    <a href="javascript:;;" class="action-btn down" data-rid="9368959" title="没用">
+                        <img src="https://img3.doubanio.com/f/zerkalo/68849027911140623cf338c9845893c4566db851/pics/down.png" />
+                        <span id="r-useless_count-9368959">
+                        </span>
+                    </a>
+                    <a href="https://movie.douban.com/review/9368959/#comments" class="reply">0回应</a>
+
+                    <a href="javascript:;;" class="fold hidden">收起</a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+    
+
+    
+
+    <script type="text/javascript" src="https://img3.doubanio.com/misc/mixed_static/6d5a6fd70a3b1836.js"></script>
+    <!-- COLLECTED CSS -->
+</div>
+
+
+
+
+
+
+
+
+  
+  
+    
+    
+
+    
+        <div class="paginator">
+        <span class="prev">
+            &lt;前页
+        </span>
+        
+        
+
+                <span class="thispage" data-total-page="5">1</span>
+                
+            <a href="/review/best?start=20" >2</a>
+        
+                
+            <a href="/review/best?start=40" >3</a>
+        
+                
+            <a href="/review/best?start=60" >4</a>
+        
+                
+            <a href="/review/best?start=80" >5</a>
+        
+        <span class="next">
+            <link rel="next" href="/review/best?start=20"/>
+            <a href="/review/best?start=20" >后页&gt;</a>
+        </span>
+
+            <span class="count">(共100条)</span>
+        </div>
+
+
+
+      </div>
+      <div class="aside">
+        
+  <!-- douban ad begin -->
+  <div id="dale_review_best_top_right"></div>
+  <!-- douban ad end -->
+
+  
+
+
+
+
+  <div class="sidebar-info-wrapper">
+    <div class="sidebar-copy">
+      
+
+
+
+
+  <p>如果你觉得一篇评论对你有帮助，请你点击“有用”。你的投票直接决定哪些评论出现在豆瓣首页和“豆瓣最受欢迎的评论”里，以及在书、电影和音乐介绍页里评论的排序。</p>
+  <p>所有“没用”的点击都是匿名的。</p>
+
+    </div>
+
+
+
+  </div>
+
+    
+  <a href="https://help.douban.com/blackroom">> 豆瓣违规公示</a>
+  
+    
+  
+  
+<p class="pl">
+  <span class="feed">    <a href="/feed/review/movie">订阅豆瓣最受欢迎的剧评</a>  </span>
+</p>
+
+
+
+
+
+
+
+      </div>
+      <div class="extra">
+        
+    <!-- douban ad begin -->
+    <div id="dale_movie_review_best_bottom_banner"></div>
+    <!-- douban ad end -->
+
+      </div>
+    </div>
+  </div>
+
+    
+  <div id="footer">
+      <div class="footer-extra"></div>
+    
+<span id="icp" class="fleft gray-link">
+    &copy; 2005－2018 douban.com, all rights reserved 北京豆网科技有限公司
+</span>
+
+<a href="https://www.douban.com/hnypt/variformcyst.py" style="display: none;"></a>
+
+<span class="fright">
+    <a href="https://www.douban.com/about">关于豆瓣</a>
+    · <a href="https://www.douban.com/jobs">在豆瓣工作</a>
+    · <a href="https://www.douban.com/about?topic=contactus">联系我们</a>
+    · <a href="https://www.douban.com/about?policy=disclaimer">免责声明</a>
+    
+    · <a href="https://help.douban.com/?app=movie" target="_blank">帮助中心</a>
+    · <a href="https://www.douban.com/doubanapp/">移动应用</a>
+    · <a href="https://www.douban.com/partner/">豆瓣广告</a>
+</span>
+
+  </div>
+
+  </div>
+    
+  
+  
+  
+
+  
+  
+
+  
+
+
+
+
+  
+    
+
+  <!-- COLLECTED JS -->
+  
+  <!-- douban ad begin -->
+  
+  
+
+
+
+
+    
+<script type="text/javascript">
+    (function (global) {
+        var newNode = global.document.createElement('script'),
+            existingNode = global.document.getElementsByTagName('script')[0],
+            adSource = '//erebor.douban.com/',
+            userId = '',
+            browserId = 'NKx-UsaLDdk',
+            criteria = '3:/review/best/',
+            preview = '',
+            debug = false,
+            adSlots = ['dale_review_best_top_right', 'dale_movie_review_best_bottom_banner'];
+
+        global.DoubanAdRequest = {src: adSource, uid: userId, bid: browserId, crtr: criteria, prv: preview, debug: debug};
+        global.DoubanAdSlots = (global.DoubanAdSlots || []).concat(adSlots);
+
+        newNode.setAttribute('type', 'text/javascript');
+        newNode.setAttribute('src', 'https://img3.doubanio.com/f/adjs/cdc904d1376a43e44bbf399a0aff51973016cd77/ad.release.js');
+        newNode.setAttribute('async', true);
+        existingNode.parentNode.insertBefore(newNode, existingNode);
+    })(this);
+</script>
+
+
+
+
+
+
+
+
+
+
+  <!-- douban ad end -->
+
+  
+  
+
+
+
+
+
+
+
+
+
+<script type="text/javascript">
+var _paq = _paq || [];
+_paq.push(['trackPageView']);
+_paq.push(['enableLinkTracking']);
+(function() {
+    var p=(('https:' == document.location.protocol) ? 'https' : 'http'), u=p+'://fundin.douban.com/';
+    _paq.push(['setTrackerUrl', u+'piwik']);
+    _paq.push(['setSiteId', '100001']);
+    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+    g.type='text/javascript';
+    g.defer=true;
+    g.async=true;
+    g.src=p+'://img3.doubanio.com/dae/fundin/piwik.js';
+    s.parentNode.insertBefore(g,s);
+})();
+</script>
+
+<script type="text/javascript">
+var setMethodWithNs = function(namespace) {
+  var ns = namespace ? namespace + '.' : ''
+    , fn = function(string) {
+        if(!ns) {return string}
+        return ns + string
+      }
+  return fn
+}
+
+var gaWithNamespace = function(fn, namespace) {
+  var method = setMethodWithNs(namespace)
+  fn.call(this, method)
+}
+
+var _gaq = _gaq || []
+  , accounts = [
+      { id: 'UA-7019765-1', namespace: 'douban' }
+    , { id: 'UA-7019765-19', namespace: '' }
+    ]
+  , gaInit = function(account) {
+      gaWithNamespace(function(method) {
+        gaInitFn.call(this, method, account)
+      }, account.namespace)
+    }
+  , gaInitFn = function(method, account) {
+      _gaq.push([method('_setAccount'), account.id]);
+      _gaq.push([method('_setSampleRate'), '5']);
+
+      
+  _gaq.push([method('_addOrganic'), 'google', 'q'])
+  _gaq.push([method('_addOrganic'), 'baidu', 'wd'])
+  _gaq.push([method('_addOrganic'), 'soso', 'w'])
+  _gaq.push([method('_addOrganic'), 'youdao', 'q'])
+  _gaq.push([method('_addOrganic'), 'so.360.cn', 'q'])
+  _gaq.push([method('_addOrganic'), 'sogou', 'query'])
+  if (account.namespace) {
+    _gaq.push([method('_addIgnoredOrganic'), '豆瓣'])
+    _gaq.push([method('_addIgnoredOrganic'), 'douban'])
+    _gaq.push([method('_addIgnoredOrganic'), '豆瓣网'])
+    _gaq.push([method('_addIgnoredOrganic'), 'www.douban.com'])
+  }
+
+      if (account.namespace === 'douban') {
+        _gaq.push([method('_setDomainName'), '.douban.com'])
+      }
+
+        _gaq.push([method('_setCustomVar'), 1, 'responsive_view_mode', 'desktop', 3])
+
+        _gaq.push([method('_setCustomVar'), 2, 'login_status', '0', 2]);
+
+      _gaq.push([method('_trackPageview')])
+    }
+
+for(var i = 0, l = accounts.length; i < l; i++) {
+  var account = accounts[i]
+  gaInit(account)
+}
+
+
+;(function() {
+    var ga = document.createElement('script');
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    ga.setAttribute('async', 'true');
+    document.documentElement.firstChild.appendChild(ga);
+})()
+</script>
+
+
+
+
+
+
+
+
+  <!-- dis7-docker-->
+
+  <script>_SPLITTEST=''</script>
+</body>
+
+</html>
+
+
