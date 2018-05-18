@@ -12,6 +12,17 @@ class DouBMovieSpider(scrapy.Spider):
     name = 'DouBanMovie'
     allowed_domains = ['douban.com']
     start_urls = ['https://movie.douban.com/review/best/']
+    '''
+    def start_requests(self):
+        return [scrapy.FormRequest("http://www.example.com/login",
+                               formdata={'user': 'john', 'pass': 'secret'},
+                               callback=self.logged_in)]
+
+    def logged_in(self, response):
+    # here you would extract links to follow and return Requests for
+    # each of them, with another callback
+        pass
+    '''
     
     def parse(self,response):
         #filename = 'doubanmovie'
@@ -25,5 +36,5 @@ class DouBMovieSpider(scrapy.Spider):
             Item['voter'] = sel.xpath('//a[@class="name"]/text()').extract()
             Item['vottitle'] = sel.xpath('//div[@class="main-bd"]/h2/a/text()').extract()
             yield Item
-        #print(title,link,voter,vottitle)
+        #print(Item)
             
