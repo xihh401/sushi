@@ -20,9 +20,10 @@ class DouBMovieCrawl(CrawlSpider):
     def parse_item(self,response):
         #self.log('%s' % response.url)
         item = items.SushiCrawlItem()
-        for sel in response.xpath('//div[@typeof="v:Review"]'):
+        #for sel in response.xpath('//div[@typeof="v:Review"]'):
         #for sel in response.xpath('//div[@class="review-list chart "]'):
-            item['title'] = sel.xpath('//div[@class="main review-item"]/a/img/@title').extract()
-            item['link'] = sel.xpath('//div[@class="main review-item"]/a/@href').extract()
-            yield item
-        print(item)
+        item['title'] = response.xpath('//div[@class="main review-item"]/a/img/@title').extract()
+        item['link'] = response.xpath('//div[@class="main review-item"]/a/@href').extract()
+        #yield item
+        #print(item)
+        return item

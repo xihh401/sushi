@@ -25,3 +25,11 @@ class SushiCrawlItem(scrapy.Item):
     desc = scrapy.Field()
     voter = scrapy.Field()
     vottitle = scrapy.Field()
+    
+
+class SushiXmlItem(scrapy.Item):
+    title = scrapy.Field()
+    link = scrapy.Field()
+    desc = scrapy.Field()
+    voter = scrapy.Field()
+    vottitle = scrapy.Field()

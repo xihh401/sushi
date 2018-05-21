@@ -31,10 +31,11 @@ class DouBMovieSpider(scrapy.Spider):
         response.selector.remove_namespaces()
         Item = items.SushiItem()
         for sel in response.xpath('//div[@typeof="v:Review"]'):
+            yield Item
             Item['title'] = sel.xpath('//div[@class="main review-item"]/a/img/@title').extract()
             Item['link'] = sel.xpath('//div[@class="main review-item"]/a/@href').extract()
             Item['voter'] = sel.xpath('//a[@class="name"]/text()').extract()
             Item['vottitle'] = sel.xpath('//div[@class="main-bd"]/h2/a/text()').extract()
-            yield Item
+            
         #print(Item)
             
