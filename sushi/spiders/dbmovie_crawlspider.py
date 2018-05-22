@@ -27,3 +27,4 @@ class DouBMovieCrawl(CrawlSpider):
         #yield item
         #print(item)
         return item
+    
