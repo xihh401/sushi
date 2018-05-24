@@ -13,6 +13,8 @@ class DouBMovieSpider(scrapy.Spider):
     allowed_domains = ['douban.com']
     start_urls = ['https://movie.douban.com/review/best/']
     '''
+    example
+    
     def start_requests(self):
         return [scrapy.FormRequest("http://www.example.com/login",
                                formdata={'user': 'john', 'pass': 'secret'},
@@ -32,6 +34,8 @@ class DouBMovieSpider(scrapy.Spider):
         Item = items.SushiItem()
         for sel in response.xpath('//div[@typeof="v:Review"]'):
             yield Item
+            #xpath支持正则表达式匹配，re.test()
+            #Item['title'] = sel.xpath('//div[re:test(@class, "main review-\s$")]/a/img/@title').extract()
             Item['title'] = sel.xpath('//div[@class="main review-item"]/a/img/@title').extract()
             Item['link'] = sel.xpath('//div[@class="main review-item"]/a/@href').extract()
             Item['voter'] = sel.xpath('//a[@class="name"]/text()').extract()
